@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NrJYnIFETN2qButXoZt4GNt8f1vuJQlpCObge58AcvYe5yip0TWCBbiOYTlAzTMKzE65SOXJrLHG64QyrVIaBg==",
+  "dgSpecHash": "+yO2K/eKgOQPcIoYVJk26z5F9axOMVcGgSLks92pCLOwGZCy82oZpUdWJyxHdqntfdohXC3Ki59dQ+F8LSA+6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\users\\Documents\\Cristiannika\\TERCER AÑO FACULTAD\\PROGRAMACION WEB II\\integrador\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "c:\\Users\\users\\Documents\\Cristiannika\\TERCER AÑO FACULTAD\\PROGRAMACION WEB II\\integrador\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\users\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\users\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

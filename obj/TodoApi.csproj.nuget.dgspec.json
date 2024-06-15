@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\users\\Documents\\Cristiannika\\TERCER AÑO FACULTAD\\PROGRAMACION WEB II\\integrador\\TodoApi\\TodoApi.csproj": {}
+    "c:\\Users\\users\\Documents\\Cristiannika\\TERCER AÑO FACULTAD\\PROGRAMACION WEB II\\integrador\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\users\\Documents\\Cristiannika\\TERCER AÑO FACULTAD\\PROGRAMACION WEB II\\integrador\\TodoApi\\TodoApi.csproj": {
+    "c:\\Users\\users\\Documents\\Cristiannika\\TERCER AÑO FACULTAD\\PROGRAMACION WEB II\\integrador\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\users\\Documents\\Cristiannika\\TERCER AÑO FACULTAD\\PROGRAMACION WEB II\\integrador\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "c:\\Users\\users\\Documents\\Cristiannika\\TERCER AÑO FACULTAD\\PROGRAMACION WEB II\\integrador\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\users\\Documents\\Cristiannika\\TERCER AÑO FACULTAD\\PROGRAMACION WEB II\\integrador\\TodoApi\\TodoApi.csproj",
+        "projectPath": "c:\\Users\\users\\Documents\\Cristiannika\\TERCER AÑO FACULTAD\\PROGRAMACION WEB II\\integrador\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\users\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\users\\Documents\\Cristiannika\\TERCER AÑO FACULTAD\\PROGRAMACION WEB II\\integrador\\TodoApi\\obj\\",
+        "outputPath": "c:\\Users\\users\\Documents\\Cristiannika\\TERCER AÑO FACULTAD\\PROGRAMACION WEB II\\integrador\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\users\\AppData\\Roaming\\NuGet\\NuGet.Config"
