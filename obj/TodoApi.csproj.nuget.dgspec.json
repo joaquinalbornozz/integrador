@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\users\\Documents\\Cristiannika\\TERCER AÑO FACULTAD\\PROGRAMACION WEB II\\integrador\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\Juan Pablo\\Documents\\FA UNSJ\\FACULTAD\\programacion web\\integrador\\TodoApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\users\\Documents\\Cristiannika\\TERCER AÑO FACULTAD\\PROGRAMACION WEB II\\integrador\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\Juan Pablo\\Documents\\FA UNSJ\\FACULTAD\\programacion web\\integrador\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\users\\Documents\\Cristiannika\\TERCER AÑO FACULTAD\\PROGRAMACION WEB II\\integrador\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\Juan Pablo\\Documents\\FA UNSJ\\FACULTAD\\programacion web\\integrador\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "c:\\Users\\users\\Documents\\Cristiannika\\TERCER AÑO FACULTAD\\PROGRAMACION WEB II\\integrador\\TodoApi\\TodoApi.csproj",
-        "packagesPath": "C:\\Users\\users\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\users\\Documents\\Cristiannika\\TERCER AÑO FACULTAD\\PROGRAMACION WEB II\\integrador\\TodoApi\\obj\\",
+        "projectPath": "C:\\Users\\Juan Pablo\\Documents\\FA UNSJ\\FACULTAD\\programacion web\\integrador\\TodoApi.csproj",
+        "packagesPath": "C:\\Users\\Juan Pablo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Pablo\\Documents\\FA UNSJ\\FACULTAD\\programacion web\\integrador\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\users\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Juan Pablo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
